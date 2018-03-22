@@ -1,0 +1,19 @@
+{
+  "name": "prochatapp",
+  "version": "1.0.0",
+  "description": "prochatapp rest api",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "file-system": "^2.2.2",
+    "http": "0.0.0",
+    "path": "^0.12.7",
+    "request": "^2.85.0"
+  }
+}
